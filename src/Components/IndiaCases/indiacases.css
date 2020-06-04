@@ -1,0 +1,36 @@
+.header {
+  color: pink
+}
+
+.horizontal-layout {
+  display: flex;
+  flex-direction: row
+}
+
+.confirmed-box {
+  background: red;
+  width: 25%;
+  height:150px;
+  text-align: center
+}
+
+.active-box {
+  background: blue;
+  width: 25%;
+  height:150px;
+  text-align: center;
+}
+
+.recorved-box {
+  background: gree;
+  width: 25%;
+  height:150px;
+  text-align: center
+}
+
+.death-box {
+  background: grey;
+  width: 25%;
+  height:150px;
+  text-align: center
+}
